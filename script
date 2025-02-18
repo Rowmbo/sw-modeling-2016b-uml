@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Rowmbo/empty-repo/refs/heads/master/SlapBattles"))()
